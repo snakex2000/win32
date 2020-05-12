@@ -230,7 +230,14 @@ Each user, group, or Azure AD application that you add to your account must be a
 -   **Can I access this data through an API?** Yes, the data will be made available through a public API when the program is available to all developers.
 -   **What about applications with older certificates?** Unfortunately, we do not support submitting certificates that are expired or revoked, even if you renew them with the same key.
 -   **Why do I see an application I don't recognize?** If the certificate you use to sign files in your application is also used by someone else in your company to sign another application, you will see telemetry for that application too. In the future, we'll provide an option to hide applications from your dashboard. If your company account is attached to an Azure AD tenant, you can request your admin to modify user permissions so that only specific applications are visible to you.
--   **How can I provide feedback on the experience or get support?** If you need assistance, you can create a support request [here](https://developer.microsoft.com/windows/support/). To share your feedback, use the **Feedback** link (under **Account settings**) and select the **Analytics** area to let us know what you think. 
+-   **How can I provide feedback on the experience or get support?** If you need assistance, you can create a support request.  To create a support request, do the following:
+     1.	Got to http://aka.ms/storesupport
+     2.	Click Contact Us
+     3.	From Developer support topic drop-down, select Dashboard – Store apps & games, Hardware, Collaborate
+     4.	From Issue type drop-down, select Reporting/Analytics’
+     5.	Click submit an incident.
+
+To share your feedback, use the **Feedback** link (under **Account settings**) and select the **Analytics** area to let us know what you think. 
  
 
  
